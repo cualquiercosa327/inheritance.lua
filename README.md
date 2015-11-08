@@ -1,7 +1,7 @@
 ##inheritance.lua
 ---
 
-#### Improved by Logan Dean
+#### Improved by notanimposter
 based on http://lua-users.org/wiki/InheritanceTutorial
 
 ---
